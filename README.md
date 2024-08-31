@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sachinproxima
 - 👀 I’m interested in Web-Development
-- 🌱 I’m currently learning Vanilla Javascript
+- 🌱 I’m currently learning Vanilla Javascript and node js .
+  
 
 
 <!---
